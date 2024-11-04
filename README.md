@@ -20,3 +20,13 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡏⠀⠀⠀⠀⠀⠀⠀⠀
 ![Captura de pantalla 2024-09-19 110725](https://github.com/user-attachments/assets/3d295fdd-62e7-4285-884f-9d9d5db80ba8)
+![mono de las nieves](https://github.com/user-attachments/assets/7fe6d0f4-c27b-43f9-ad52-ba8ceeed0a04)
+![maldito remon](https://github.com/user-attachments/assets/d8d3fe66-26c3-4f4e-88bc-6ef5ab9dce1e)
+![adolf remon](https://github.com/user-attachments/assets/70043997-16e5-4e85-a96e-f8b5b9909504)
+![superremon](https://github.com/user-attachments/assets/5c5525e0-54c7-48cb-bece-f8834173caa1)
+
+
+https://github.com/user-attachments/assets/5aefef41-7a5a-486f-bb3d-24d2f95f92a4
+
+![real](https://github.com/user-attachments/assets/9e4532fd-ce69-41b1-ada6-e04c38f43ba0)
+![rani demon](https://github.com/user-attachments/assets/306ae016-b92b-4d8f-8090-c039017c2a1f)
