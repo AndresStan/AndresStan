@@ -5,32 +5,9 @@
 </p>
 
 
-- 🔭 I’m currently working at [KnowBe4](https://knowbe4.com) as an SRE
-- 💬 Ask me about **Go, Git and Python**
-- 📫 How to reach me: [@athulcajay](https://twitter.com/athulcajay) on Twitter
-- ⚡ Fun fact: Big Fan of the :zap: emoji
+- 🔭 Estoy estudiando actualmente en el IES SEGUNDO DE CHOMON
+- 💬 Preguntame sobre Git, Python, o JS que no tengo ni idea
+- 📫 Como contactarme: [@andrees._14](https://www.instagram.com/andrees._14/) on Instagram
+- ⚡ Fun fact: Soy fan de este emoji :zap: 
 
--------
 
-**📝 Latest Blog Posts**
-
-<!-- BLOG-POST-LIST:START -->
-- [Hacking with Knives and Spoons](https://blog.athulcyriac.in/blog/cooking/)
-- [Yearly Review 2024](https://blog.athulcyriac.in/blog/2024/)
-- [Python + Nix Flakes + Containers](https://blog.athulcyriac.in/blog/docker-nix-python/)
-- [Yearly Review 2023](https://blog.athulcyriac.in/blog/2023/)
-- [For Abraham, forever ago](https://blog.athulcyriac.in/blog/abraham/)
-<!-- BLOG-POST-LIST:END -->
-
--------
-
-📊 **Weekly development breakdown**
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
--------
