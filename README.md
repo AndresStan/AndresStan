@@ -20,6 +20,6 @@
 
 ### 📊 Mis estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrees14&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AndresStan&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
