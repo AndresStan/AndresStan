@@ -1,7 +1,6 @@
 <h2 align="center">👋 Hola, soy Andres!.</h2>
 <p align="center">
-  <a href="https://blog.athulcyriac.in">Blog</a> •
-  <a href="https://twitter.com/athulcajay">Twitter</a>
+  <a href="https://www.instagram.com/andrees._14/">Instagram</a> •
 </p>
 
 
