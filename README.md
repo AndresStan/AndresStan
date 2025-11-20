@@ -5,7 +5,7 @@
 
 
 - 🔭 Estoy estudiando actualmente en el IES SEGUNDO DE CHOMON
-- 💬 Preguntame sobre Git, Python, o JS que no tengo ni idea
+- 💬 Preguntame sobre Git, Python, o JS que soy experto
 - 📫 Como contactarme: [@andrees._14](https://www.instagram.com/andrees._14/) on Instagram
 - ⚡ Fun fact: Soy fan de este emoji :zap:
 
